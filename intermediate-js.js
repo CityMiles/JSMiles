@@ -91,10 +91,6 @@ console.log(oddChecker(fullArr))
 
 
 
-
-
-
-
 // Copy and paste your code and refactor using ES6 syntax.
 
 var fullArr = [4, 9, 0, "7", 8, true, "hey", 7, 199, -9, false, "hola"]
@@ -106,8 +102,3 @@ oddChecker = (array) => {
 }
 
 console.log(oddChecker(fullArr))
-
-
-
-
-// function that filters an array ...
